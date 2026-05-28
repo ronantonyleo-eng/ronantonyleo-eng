@@ -26,6 +26,8 @@ I'm passionate about **web development**, **graphic designing**, and exploring h
 
 ## 🛠️ Languages & Tools
 
+## 🛠️ Languages & Tools
+
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -67,6 +69,15 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 *(More exciting projects coming soon!)*
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronantonyleo-eng&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronantonyleo-eng&layout=compact&theme=dark&hide_border=true"/>
+    <br>
+    <img src="https://streak-stats.demolab.com/?user=ronantonyleo-eng&theme=dark&hide_border=true"/>
+</div>
 
 ## 📈 Certifications & Learning
 
