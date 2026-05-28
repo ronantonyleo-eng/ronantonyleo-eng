@@ -18,7 +18,7 @@ Hey there! I'm Ron, a highly motivated **Computer Science undergraduate** at St.
 I'm passionate about **web development**, **graphic designing**, and exploring how automation can solve everyday problems. I believe in clean interfaces, efficient logic, and continuous learning. I'm always eager to collaborate on projects that challenge me and allow me to grow professionally.
 
 -  **Current Focus:** Core CS concepts, honing my Python & C skills, and building practical projects.
--  **What I'm Building:** Currently working on responsive web apps like my **Expense Tracker**.
+-  **What I'm Building:** Currently working on responsive web apps like my **Pdf_Summarizer**.
 -  **Beyond Code:** I love sports analysis, game development, and digital art.
 -  **Goal:** To contribute to impactful open-source projects and secure a role where I can blend development with creative problem-solving.
 
