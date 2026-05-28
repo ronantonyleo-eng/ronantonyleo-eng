@@ -24,7 +24,6 @@ I'm passionate about **web development**, **graphic designing**, and exploring h
 
 ---
 
-## 🛠️ Languages & Tools
 
 ## 🛠️ Languages & Tools
 
