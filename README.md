@@ -63,7 +63,6 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 | [Pdf_Summarizer](https://github.com/ronantonyleo-eng/Pdf_summarizer) | Extract and summarize text from PDF documents | JavaScript, HTML, CSS |
 | [Expense Tracker](https://github.com/ronantonyleo-eng/expense_tracker) | Personal finance tracking with real-time balance updates | CSS, JavaScript, HTML |
 | [Study Planner App](https://github.com/ronantonyleo-eng/study-planner-app) | Organize study schedules and track academic progress | CSS |
-| [Introduction to GitHub](https://github.com/ronantonyleo-eng/skills-introduction-to-github) | Learning open-source collaboration fundamentals | GitHub Skills |
 
 ### 🔨 Currently Building
 - **Pdf_Summarizer v2** - Adding support for multiple PDF formats
