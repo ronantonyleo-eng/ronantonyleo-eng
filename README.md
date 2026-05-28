@@ -25,7 +25,7 @@ I'm passionate about **web development**, **graphic designing**, and exploring h
 ---
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -42,7 +42,7 @@ I'm passionate about **web development**, **graphic designing**, and exploring h
 
 ---
 
-## 📚 My GitHub Dashboard (Work in Progress)
+## My GitHub Dashboard (Work in Progress)
 
 I am building my open-source and project portfolio. Here's a snapshot of my current focus:
 
@@ -56,7 +56,7 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 
 ### [Expense Tracker](https://github.com/ronantonyleo/expense-tracker)
 > A responsive web app to manage personal finances.
@@ -69,7 +69,7 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronantonyleo-eng&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -83,7 +83,7 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 - **Intel AI for All** – Foundation in AI concepts.
 - **Digital India** – Awareness of India's digital transformation initiatives.
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 - **Advanced Web Dev:** Deepening my knowledge of React and backend integration.
 - **Data Science:** Exploring Python libraries (Pandas, Matplotlib) for analysis.
@@ -92,7 +92,7 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 
 ---
 
-## 🎓 Education & Achievements
+## Education & Achievements
 
 - **B.Sc. Computer Science** | St. Albert's College (Autonomous) (2025-2029)
     - *Minor: Electronics*
@@ -102,11 +102,11 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm actively looking for internships, entry-level opportunities, and collaboration on beginner-friendly open-source projects. Feel free to reach out!
 
-- 📧 **Email:** ronantonyleo@gmail.com
-- 📞 **Phone:** 79075-52752
-- 📍 **Location:** Fort Kochi, Ernakulam, Kerala
+- **Email:** ronantonyleo@gmail.com
+-  **Phone:** 79075-52752
+-  **Location:** Fort Kochi, Ernakulam, Kerala
 
