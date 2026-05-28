@@ -48,7 +48,7 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 
 | Area | Focus & Projects |
 | :--- | :--- |
-| **Web Development** | Building responsive apps (like Expense Tracker) with local storage and clean UIs. |
+| **Web Development** | Building responsive apps with local storage and clean UIs. |
 | **Data & Visualization** | Learning to create dashboards with Power BI and SQL for data storytelling. |
 | **Programming Core** | Strengthening logic in **Python** and **C** through small automation scripts and DSA. |
 | **Design & Creative** | Exploring graphic design for UI/UX and digital illustrations. |
