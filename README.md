@@ -11,16 +11,16 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hey there! I'm Ron, a highly motivated **Computer Science undergraduate** at St. Albert's College (Autonomous). My journey started with a strong CBSE foundation at PM Shri KV INS Dronacharya, and now I'm diving deep into the world of code, design, and data.
 
 I'm passionate about **web development**, **graphic designing**, and exploring how automation can solve everyday problems. I believe in clean interfaces, efficient logic, and continuous learning. I'm always eager to collaborate on projects that challenge me and allow me to grow professionally.
 
-- 🎓 **Current Focus:** Core CS concepts, honing my Python & C skills, and building practical projects.
-- 🚀 **What I'm Building:** Currently working on responsive web apps like my **Expense Tracker**.
-- 🎨 **Beyond Code:** I love sports analysis, game development, and digital art.
-- 🎯 **Goal:** To contribute to impactful open-source projects and secure a role where I can blend development with creative problem-solving.
+-  **Current Focus:** Core CS concepts, honing my Python & C skills, and building practical projects.
+-  **What I'm Building:** Currently working on responsive web apps like my **Expense Tracker**.
+-  **Beyond Code:** I love sports analysis, game development, and digital art.
+-  **Goal:** To contribute to impactful open-source projects and secure a role where I can blend development with creative problem-solving.
 
 ---
 
