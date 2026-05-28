@@ -110,9 +110,7 @@ I'm actively looking for internships, entry-level opportunities, and collaborati
 - 📞 **Phone:** 79075-52752
 - 📍 **Location:** Fort Kochi, Ernakulam, Kerala
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronantonyleo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ronantonyleo-eng&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronantonyleo&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronantonyleo-eng&layout=compact&theme=dark&hide_border=true)
 
----
-*This README is inspired by the structured and engaging profile of puneetdixit200. Last updated with current resume information.*
