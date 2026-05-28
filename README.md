@@ -56,16 +56,25 @@ I am building my open-source and project portfolio. Here's a snapshot of my curr
 
 ---
 
-## Featured Project
+##  Featured Projects
 
-### [Expense Tracker](https://github.com/ronantonyleo/expense-tracker)
-> A responsive web app to manage personal finances.
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| [Pdf_Summarizer](https://github.com/ronantonyleo-eng/Pdf_summarizer) | Extract and summarize text from PDF documents | JavaScript, HTML, CSS |
+| [Expense Tracker](https://github.com/ronantonyleo-eng/expense_tracker) | Personal finance tracking with real-time balance updates | CSS, JavaScript, HTML |
+| [Study Planner App](https://github.com/ronantonyleo-eng/study-planner-app) | Organize study schedules and track academic progress | CSS |
+| [Introduction to GitHub](https://github.com/ronantonyleo-eng/skills-introduction-to-github) | Learning open-source collaboration fundamentals | GitHub Skills |
 
-- **Features:** Real-time balance updates, transaction history, data persistence with local storage.
-- **Stack:** HTML, CSS, JavaScript
-- **Impact:** A practical tool to understand front-end state management and local storage APIs.
+### 🔨 Currently Building
+- **Pdf_Summarizer v2** - Adding support for multiple PDF formats
+- **Study Planner** - Adding JavaScript interactivity and due date reminders
 
-*(More exciting projects coming soon!)*
+### 💡 Ideas for Next Projects
+| Project Idea | Focus Area |
+| :--- | :--- |
+| Power BI Dashboard | Data visualization with real sales data |
+| Python Automation Suite | File organizer and web scraper scripts |
+| Student Portfolio | Personal brand website with project gallery |
 
 ---
 
